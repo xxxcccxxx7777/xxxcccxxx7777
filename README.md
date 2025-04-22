@@ -21,7 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxcccxxx7777&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/xxxcccxxx7777/xxxcccxxx7777/main/metrics.plugin.languages.svg" alt="Language Pie Chart" />
+
 </p>
 
 ---
