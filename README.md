@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 👾 JS, Java, Kotlin, Lua, C/C++, C#, Rust, ASM (Intel/AMD/Xeon), HTML  
 - 💣 Systems, superiority, and low-level mastery  
@@ -39,14 +39,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/xxxcccxxx7777/xxxcccxxx7777/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-### 🧬 Futuristic Vision
-
-> _"Code is not just logic. It is domination over entropy. I don't write scripts — I forge architecture."_  
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0f0f0f&height=100&section=footer" />
