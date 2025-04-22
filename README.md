@@ -34,12 +34,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xxxcccxxx7777/xxxcccxxx7777/output/github-contribution-grid-snake.svg" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0f0f0f&height=100&section=footer" />
 </p>
