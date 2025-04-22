@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">✦ xxxcccxxx7777 ✦</h1>
 
-<!--
-**xxxcccxxx7777/xxxcccxxx7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=7F00FF&center=true&vCenter=true&width=600&lines=Systems,+superiority,+and+low-level+mastery.;Master+of+JS,+Java,+Kotlin,+Lua,+C/C++,+C#,Rust,+ASM,+HTML.;Exploring+the+depths+of+architecture+and+performance." />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 👾 JS, Java, Kotlin, Lua, C/C++, C#, Rust, ASM (Intel/AMD/Xeon), HTML  
+- 💣 Systems, superiority, and low-level mastery  
+- 🧬 Passion for control over machine and memory
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xxxcccxxx7777&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxcccxxx7777&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xxxcccxxx7777&theme=algolia&margin-w=10&row=2&column=3" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xxxcccxxx7777/xxxcccxxx7777/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🧬 Futuristic Vision
+
+> _"Code is not just logic. It is domination over entropy. I don't write scripts — I forge architecture."_  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0f0f0f&height=100&section=footer" />
+</p>
