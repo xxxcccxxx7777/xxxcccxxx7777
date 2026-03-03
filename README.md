@@ -1,7 +1,7 @@
 <h1 align="center">△ xxxcccxxx7777 △</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=7F00FF&center=true&vCenter=true&width=900&lines=Rules+are+just+soft+targets.;I+rewrite+the+contract+between+code+and+reality.;Reverse+Engineering:+where+secrets+become+instructions.;The+machine+doesn%E2%80%99t+lie.+I+make+it+sing.;Signed:+xxxcccxxx7777+%E2%80%A2+0xEBFE" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=7F00FF&center=true&vCenter=true&width=900&lines=Rules+are+just+soft+targets.;I+rewrite+the+contract+between+code+and+reality.;Reverse+Engineering:+where+secrets+become+instructions.;The+machine+doesn%E2%80%99t+lie.+I+make+it+sing.;Signed:+xxxcccxxx7777+%E2%80%A2+0xCC" />
 </p>
 
 <div align="center">
@@ -24,7 +24,7 @@
 - Reverse engineering as a **method of authority**: disassembly, patching, deobfuscation, behavioral tracing  
 - Systems discipline: **x86_64, calling conventions, memory, timing, performance**  
 - Languages: JS · Java · Kotlin · Lua · C/C++ · C# · Rust · ASM · HTML  
-- Signature line: “The machine doesn’t lie. I make it sing.” — `0xEBFE`
+- Signature line: “The machine doesn’t lie. I make it sing.” — `0xCC`
 
 <br/>
 
